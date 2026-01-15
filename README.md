@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 - 💬 **Ask me about:** Collaboration, Tech Suppor
 - 📫 **How to reach me:** titoos675@gmail.com
 - 😄 **Pronouns:** 
-- ⚡ **Fun fact:*I enjoy turning bugs into features.* 
+- ⚡ **Fun fact:*I enjoy turning bugs into features.**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/titoo_9201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titoo-singh-dev/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Titoosingh7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titoos675@gmail.com) 
 
