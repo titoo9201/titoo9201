@@ -14,6 +14,11 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/titoo_9201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titoo-singh-dev/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Titoosingh7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titoos675@gmail.com) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=titoo9201&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=titoo9201&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=titoo9201&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 # 💻 Tech Stack:
 #  🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -49,10 +54,8 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=titoo9201&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=titoo9201&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=titoo9201&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
