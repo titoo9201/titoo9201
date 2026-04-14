@@ -18,10 +18,13 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/titoo_9201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titoo-singh-dev/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Titoosingh7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titoos675@gmail.com) 
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=titoo9201&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=titoo9201&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=titoo9201&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=titoo9201&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=titoo9201&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titoo9201&layout=compact&theme=tokyonight)
 
 # 💻 Tech Stack:
 #  🧠 Languages
