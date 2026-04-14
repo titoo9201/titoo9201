@@ -12,22 +12,24 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 - 😄 **Pronouns:** 
 - ⚡ **Fun fact:I enjoy turning bugs into features.**
 
-# 👀 Profile Views
+## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=titoo9201&color=brightgreen)
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/titoo_9201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titoo-singh-dev/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Titoosingh7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titoos675@gmail.com) 
 
 
-# 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=titoo9201&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=titoo9201&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Streak](https://streak-stats.demolab.com?user=titoo9201&theme=tokyonight)
+## 💻 Tech Stack
+### 🧠 Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titoo9201&layout=compact&theme=tokyonight)
-
-# 💻 Tech Stack:
-#  🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
