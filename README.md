@@ -24,9 +24,8 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=titoo9201&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Streak](https://streak-stats.demolab.com?user=titoo9201&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=titoo9201&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=titoo9201&theme=tokyonight)
 ## 💻 Tech Stack
 ### 🧠 Languages
 
