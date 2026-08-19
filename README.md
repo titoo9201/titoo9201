@@ -3,29 +3,46 @@
 
 Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** Collaboration, Tech Suppor
+- 🔭 **I'm currently working on:** BankAnalysis — a financial document analysis platform (FastAPI + React)
+- 🌱 **I'm currently learning:** Advanced system design & AI-powered developer tooling
+- 👯 **I'm looking to collaborate on:** Full-stack (MERN) and AI-integrated web apps
+- 🤔 **I'm looking for help with:** Scaling side projects & open-source best practices
+- 💬 **Ask me about:** MERN Stack, Full Stack Development, Collaboration, Tech Support
 - 📫 **How to reach me:** titoos675@gmail.com
-- 😄 **Pronouns:** 
-- ⚡ **Fun fact:I enjoy turning bugs into features.**
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I enjoy turning bugs into features.
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=titoo9201&color=brightgreen)
 
 ---
 
+## 🚀 Featured Projects
+- **TaskFlow** — Full-stack task management app with JWT auth and role-based access control
+- **SiteGenie** — AI-powered website generator built using the OpenRouter API
+- **MediCare Hub** — Digital prescription management platform
+- **Snappy UI** — Reusable UI component library (in development)
+
+## 🏆 Achievements
+- LeetCode Rating: **1599** (140+ problems solved)
+- 5⭐ in Java on HackerRank
+- AWS Academy Cloud Foundations Certified
+
+🌐 Portfolio: [titoo-singh-dev.netlify.app](https://titoo-singh-dev.netlify.app)
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/titoo_9201) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titoo-singh-dev/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Titoosingh7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titoos675@gmail.com) 
-
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=titoo9201&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=titoo9201&theme=tokyonight)
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=titoo9201&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&area=true)
+
 ## 💻 Tech Stack
 ### 🧠 Languages
 
@@ -47,6 +64,7 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 # ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -60,9 +78,6 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-
-
-
 
 <!-- Snake Game Repo View -->
 
