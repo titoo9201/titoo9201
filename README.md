@@ -41,7 +41,7 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=titoo9201&theme=tokyonight)
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=titoo9201&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&area=true)
+![Activity Graph](https://github-readme-activity-graph-pink-seven.vercel.app/graph?username=titoo9201&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&area=true)
 
 ## 💻 Tech Stack
 ### 🧠 Languages
