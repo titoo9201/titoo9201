@@ -28,7 +28,7 @@ Email Me 👉 ✉️ **titoos675@gmail.com** For Collaboration/Project or Anythi
 - 5⭐ in Java on HackerRank
 - AWS Academy Cloud Foundations Certified
 
-🌐 Portfolio: [titoo-singh-dev.netlify.app](https://titoo-singh-dev.netlify.app)
+🌐 Portfolio: [titoo-singh-dev.netlify.app]
 
 ---
 
